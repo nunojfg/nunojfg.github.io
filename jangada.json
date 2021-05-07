@@ -112,7 +112,7 @@
             "releaseDate": "2021-05-05",
             "audio": "https://cld.pt/dl/download/58e9ac53-5741-47bb-b017-c16d38efcc12/Doente.mp3",
             "content": "<center><h1 style=\"color:#639498; font-family: 'Helvetica LT Std Light Condensed'; font-size:30px\">Doente</h1></center><p></p><span style=\"font-family: 'Helvetica LT Std Light Condensed'; font-size:20px\"><p>Tu eras noutro tempo encantadora,<br>Quando tinhas sa&uacute;de e alegria;<br>Teu olhar ao fitar-nos espargia<br>A doce luz pur&iacute;ssima da aurora.</p><p>Como era lindo ver-te branca e loura<br>Percorrer o jardim num claro dia!<br>Todo o teu ser ang&eacute;lico sorria<br>Como uma flor que a luz afaga e doura...</p><p>Mas hoje, definhada, emagrecida,<br>Nem te ergues j&aacute; do leito... Enquanto a vida<br>Agora, ao sol de Abril, canta e palpita</p><p>Na alegria do campo rescendente,<br>Tu vais emurchecendo lentamente,<br>Pobre flor, desditosa margarita!<br></p></span>"
-        },
+        }/*,
          {
             "title": "Perante a Face da Noite",
             "author": "Lília Silva",
@@ -216,7 +216,7 @@
             "author": "Cristina Ribeiro",
             "releaseDate": "2021-12-01",
             "content": "<center><h1 style=\"color:#639498; font-family: 'Helvetica LT Std Light Condensed'; font-size:30px\">Soneto</h1></center><p></p><span style=\"font-family: 'Helvetica LT Std Light Condensed'; font-size:20px\"><p>Ah! nunca mais verei seus l&aacute;bios sorridentes,<br>Exalando frescor, candura, ing&eacute;nuos ditos!<br>Em v&atilde;o no seu coval meus tristes olhos fitos<br>Tentam romper o ch&atilde;o, mineiros impotentes.</p><p>Nunca mais lhe ouvirei os risos inocentes,<br>O alegre chalrar como o dos passaritos!<br>Amargo &laquo;nunca mais&raquo;, nos cora&ccedil;&otilde;es aflitos<br>Tens dum dobre de enterro as vibra&ccedil;&otilde;es plangentes.</p><p>Mas, enquanto eu solu&ccedil;o, o vale, as serranias<br>Mostram a placidez dos venturosos dias,<br>Pasmam da tarde azul no l&acirc;nguido torpor...</p><p>Oh! como a fleuma eterna, o frio desinteresse<br>Que o Im&oacute;vel mant&eacute;m perante quem padece,<br>Fere o nosso ego&iacute;smo, e insulta a nossa dor!<br></p></span>"
-        }
+        }*/
         
     ]
 }
