@@ -193,6 +193,17 @@
             "releaseDate": "2021-08-01",
             "audio": "https://cld.pt/dl/download/792fddf8-b8ae-4e95-82e0-8e82a360f8fa/Viuvez.mp3",
             "content": "<center><h1 style=\"color:#639498; font-family: 'Helvetica LT Std Light Condensed'; font-size:30px\">Viuvez</h1></center><p></p><span style=\"font-family: 'Helvetica LT Std Light Condensed'; font-size:20px\"><p>No meio da campina revestida<br>De centeios dum tom aveludado,<br>V&ecirc;-se uma velha casa enegrecida<br>Que foi antigamente dum morgado.</p><p>Como &eacute; triste assim negra e deca&iacute;da,<br>Com ervagens crescendo no telhado!<br>Dir-se-&aacute; que no seu todo desolado<br>Chora uma alma de dona empobrecida.</p><p>J&aacute; n&atilde;o crepita o lume no seu lar,<br>J&aacute; ningu&eacute;m v&ecirc; seu tecto fumegar<br>&Agrave; hora em que o Sol morre<br>e o sino tange.</p><p>N&atilde;o te entristece, &oacute; lavrador que passas,<br>O casar&atilde;o sem cal e sem vidra&ccedil;as<br>Com aquele ar vi&uacute;vo que confrange?...<br></p></span>"
+        },
+        {
+            "title": "Sabados",
+            "author": "Ana Peixoto",
+            "releaseDate": "2021-09-01",
+            "audio": "https://cld.pt/dl/download/0b249729-7df2-4591-9236-4c8bae2f5793/Sabados.mp3",
+            "gpsCoords": {
+                "lat": 39.452865,
+                "long": -31.129476,
+            },
+            "content": "<center><h1 style=\"color:#639498; font-family: 'Helvetica LT Std Light Condensed'; font-size:30px\">Sabados</h1></center><p></p><span style=\"font-family: 'Helvetica LT Std Light Condensed'; font-size:20px\"><p>A doce alma dos s&aacute;bados rurais<br>Afagando as aldeias pela tarde,<br>Na hora em que fumegam os casais<br>E o fulvo ocaso em vivas chamas arde!</p><p>Anunciativos, sob o azul docel,<br>Cantam sinos na tarde que descora.<br>Lembram a voz do anjo Gabriel<br>Quando foi visitar Nossa Senhora.</p><p>S&aacute;bado ao p&ocirc;r do Sol... Com que do&ccedil;ura<br>O seu celeste afago tudo embala!<br>Dir-se-&aacute; que o pr&oacute;prio campo se satura<br>Da bem-aventuran&ccedil;a que ele exala...<br></p></span>"
         }
     ]
 }
